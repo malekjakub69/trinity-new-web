@@ -1,0 +1,20 @@
+[
+    {
+        "citation": "Každý krok v přírodě je krok k sobě.",
+        "name": "Tomáš Jedno",
+        "photo": "data/photo/hand.jpg",
+        "properties": ["Orientační expert", "Milovník přírody"]
+    },
+    {
+        "citation": "Vedení je umění, ne příkaz.",
+        "name": "Prokop Buben",
+        "photo": "data/photo/hand.jpg",
+        "properties": ["Strategický myslitel", "Přirozený lídr"]
+    },
+    {
+        "citation": "Chaos je jen nepopsaný řád.",
+        "name": "Blanka Nezvladatelná",
+        "photo": "data/photo/hand.jpg",
+        "properties": ["Mistr plánování", "Energický motivátor"]
+    }
+]

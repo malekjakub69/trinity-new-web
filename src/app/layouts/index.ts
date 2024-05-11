@@ -1,2 +1,1 @@
-export { MeetsPage } from './MeetsPage';
-export * from './settings';
+export * from './home';

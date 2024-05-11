@@ -1,2 +1,2 @@
-export * from './shadcn';
-export * from './shared';
+export { Instructor } from './Instructor';
+export { Reference } from './Reference';

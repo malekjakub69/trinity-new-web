@@ -1,16 +1,2 @@
-export * from './IcoArrowDown';
-export * from './IcoCheck';
-export * from './IcoCollapsedArrow';
-export * from './IcoDelete';
-export * from './IcoExclamation';
-export * from './IcoHamburger';
-export * from './IcoHome';
-export * from './IcoLeftMenu';
-export * from './IcoLoader';
-export * from './IcoLocalization';
-export * from './IcoMeet';
-export * from './IcoPeople';
-export * from './IcoPower';
-export * from './IcoScarf';
-export * from './IcoUnit';
-export * from './IcoWrench';
+export { Quotation } from './Quotation';
+export { TrinityLogo } from './TrinityLogo';

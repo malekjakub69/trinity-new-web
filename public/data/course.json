@@ -1,9 +1,9 @@
 {
-    "nextYear": 2025,
-    "vintageNumber": 8,
+    "courseYear": 2025,
+    "courseNumber": 8,
     "registrationStart": "září 2024",
     "registrationVisible": true,
-    "registrationUrl": "https://www.eventbrite.com/e/2025-vintage-8-registration-1234567890",
+    "registrationUrl": "https://www.eventbrite.com/e/2025-course-8-registration-1234567890",
     "trinityCalc": "http://www.quiz-maker.com/Q7Y47X5OS",
     "description": " V roce 2024 bude náš instruktorský tým čerpat síly a revidovat programy, \n aby se mohl v roce 2025 vrátit s ještě větším nadšením, chutí i novými zajímavými programy."
 }

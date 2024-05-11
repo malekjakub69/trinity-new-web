@@ -7,6 +7,7 @@ export default {
   theme: {
     screens: {
       'mobile': '800px',
+      'tablet': '1100px'
     },
     colors: {
       "trinity-black": "#000000",

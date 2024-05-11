@@ -1,5 +1,5 @@
 import { FC } from 'react';
-import { Copyright, Footer, Header, Instructors, Introducing, NextVintage, References } from '../layouts';
+import { Copyright, Footer, Header, Instructors, Introducing, NextCourse, References } from '../layouts';
 
 export const HomePage: FC = () => {
     return (
@@ -18,7 +18,7 @@ export const HomePage: FC = () => {
             </div>
             <div className="container-black">
                 <div className="inside-container">
-                    <NextVintage />
+                    <NextCourse />
                     <Footer />
                 </div>
             </div>

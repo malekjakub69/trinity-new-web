@@ -1,7 +1,7 @@
+export { Copyright } from './Copyright';
 export { Footer } from './Footer';
 export { Header } from './Header';
 export { Instructors } from './Instructors';
 export { Introducing } from './Introducing';
-export { NextVintage } from './NextVintage';
+export { NextCourse } from './NextCourse';
 export { References } from './References';
-export { Copyright } from './Copyright';

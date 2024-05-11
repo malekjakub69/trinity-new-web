@@ -2,7 +2,7 @@ import { FC } from 'react';
 
 export const Introducing: FC = () => {
     return (
-        <div className="flex flex-col items-center gap-12 w-4/5 mobile:w-full ">
+        <div className="flex flex-col items-center gap-12 mobile:w-full ">
             <h1 className="text-trinity-yellow">Představení kurzu</h1>
             <span>
                 <h3 className="text-trinity-yellow">Kdo jsme ?</h3>
@@ -10,13 +10,13 @@ export const Introducing: FC = () => {
                 jsme trochu jiný, jinak přemýšlíme a máme jiné zkušenosti, ale naše vize vzdělávání je stejná.
             </span>
             <span>
-                <h3 className="text-trinity-yellow">Co chceme ?</h3>
+                <h3 className="text-trinity-yellow ">Co chceme ?</h3>
                 Chceme nabídnout vzdělávání postavené na zážitcích a vlastních zkušenostech, které mají podle nás výraznější a trvalejší dopad na člověka než
                 samotná teorie. Chceme společně zkoušet, hledat a nalézat, co všechno pro nás může myšlenka skautingu představovat. Neočekávej proto příkazy a
                 návody, ale nabídky a inspiraci. Principem dobrovolnosti klademe důraz na osobní zodpovědnost jedince. Každý si tak z kurzu odnese právě tolik,
                 kolik si sám zvolí.
             </span>
-            <div className="w-full flex justify-evenly">
+            <div className="w-full flex flex-col mobile:flex-row justify-evenly gap-8">
                 <div className="flex flex-col items-center gap-4">
                     <h3 className="text-trinity-yellow">ANO</h3>
                     <span>Otevřená diskuze a sdílení </span>

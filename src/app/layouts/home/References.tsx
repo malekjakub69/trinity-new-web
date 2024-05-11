@@ -21,15 +21,15 @@ export const References: FC = () => {
     }, []);
 
     return (
-        <div className="mobile:w-4/5 flex flex-col items-center relative my-8">
-            <div className="flex flex-col gap-4 mobile:w-4/5 mb-12">
+        <div className="flex flex-col items-center relative my-8">
+            <div className="flex flex-col gap-4 mb-12">
                 <h1 className="text-trinity-yellow">Reference</h1>
                 {references.map((reference, index) => (
                     <Reference key={index} {...reference}></Reference>
                 ))}
             </div>
-            <Quotation fill="#F0AB03" className="w-12 absolute right-0 top-0" />
-            <Quotation fill="#F0AB03" className="w-12 absolute left-0 bottom-0" />
+            <Quotation fill="#F0AB03" className="w-12 absolute -right-12 top-0 hidden mobile:block" />
+            <Quotation fill="#F0AB03" className="w-12 absolute -left-12 bottom-0 hidden mobile:block" />
         </div>
     );
 };

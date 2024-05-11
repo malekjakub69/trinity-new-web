@@ -7,9 +7,9 @@ type ReferenceProps = {
 
 export const Reference: FC<ReferenceProps> = ({ text, author }) => {
     return (
-        <div className="">
-            <p>{text}</p>
-            <p className="text-trinity-yellow"> - {author}</p>
+        <div>
+            <p className="text-justify">{text}</p>
+            <p className="text-trinity-yellow text-left"> - {author}</p>
         </div>
     );
 };
